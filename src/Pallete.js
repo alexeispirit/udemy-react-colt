@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import ColorBox from './colorBox';
+import ColorBox from './ColorBox';
 import Navbar from './Navbar';
 import './Palette.css';
 
